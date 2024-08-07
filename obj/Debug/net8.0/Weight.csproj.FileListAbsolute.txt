@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\Bai tap\Weight\bin\Debug\net8.0\Weight.exe
+C:\Users\admin\Desktop\Bai tap\Weight\bin\Debug\net8.0\Weight.deps.json
+C:\Users\admin\Desktop\Bai tap\Weight\bin\Debug\net8.0\Weight.runtimeconfig.json
+C:\Users\admin\Desktop\Bai tap\Weight\bin\Debug\net8.0\Weight.dll
+C:\Users\admin\Desktop\Bai tap\Weight\bin\Debug\net8.0\Weight.pdb
+C:\Users\admin\Desktop\Bai tap\Weight\obj\Debug\net8.0\Weight.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Bai tap\Weight\obj\Debug\net8.0\Weight.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Bai tap\Weight\obj\Debug\net8.0\Weight.AssemblyInfo.cs
+C:\Users\admin\Desktop\Bai tap\Weight\obj\Debug\net8.0\Weight.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Bai tap\Weight\obj\Debug\net8.0\Weight.dll
+C:\Users\admin\Desktop\Bai tap\Weight\obj\Debug\net8.0\refint\Weight.dll
+C:\Users\admin\Desktop\Bai tap\Weight\obj\Debug\net8.0\Weight.pdb
+C:\Users\admin\Desktop\Bai tap\Weight\obj\Debug\net8.0\Weight.genruntimeconfig.cache
+C:\Users\admin\Desktop\Bai tap\Weight\obj\Debug\net8.0\ref\Weight.dll
